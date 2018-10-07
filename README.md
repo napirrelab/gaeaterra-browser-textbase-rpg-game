@@ -1,6 +1,6 @@
-[![GaeaTerra Logo](https://napirrelab.com/)](https://imgur.com/VTdThUP)
+[![GaeaTerra Logo](https://napirrelab.com/)]https://i.imgur.com/VTdThUP.png
 
-[![Latest Stable Version](https://napirrelab.com/)]1.0.0
+[![Latest Stable Version]]1.0.0 Beta
 
 ## What is GaeaTerra | Survival Conflict
 
