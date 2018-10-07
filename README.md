@@ -1,4 +1,4 @@
-[![GaeaTerra Logo](https://napirrelab.com/)]https://i.imgur.com/VTdThUP.png
+[![GaeaTerra Logo](https://i.imgur.com/VTdThUP.png)]
 
 [![Latest Stable Version]]1.0.0 Beta
 
