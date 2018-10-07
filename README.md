@@ -1,7 +1,7 @@
 [![GaeaTerra Logo](https://i.imgur.com/VTdThUP.png)](https://napirrelab.com)
 
-## Latest Stable Version
-1.0.0 Beta
+## Latest Version
+1.0.0 Scratch
 
 ## What is GaeaTerra | Survival Conflict
 
